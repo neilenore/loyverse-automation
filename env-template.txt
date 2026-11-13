@@ -1,0 +1,5 @@
+# Loyverse shift report — fill in and save as .env (never commit .env)
+LOYVERSE_TOKEN=
+TELEGRAM_BOT_TOKEN=
+TELEGRAM_CHAT_ID=
+TELEGRAM_TOPIC_ID=
